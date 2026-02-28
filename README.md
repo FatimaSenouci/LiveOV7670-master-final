@@ -1,18 +1,4 @@
-# LiveOV7670
-  
-Demo:  
-https://www.youtube.com/watch?v=TqSY6FETuos&list=PLVilroPGLJaesaS5mP93i0goPck2JK-O4&index=2  
-  
-Step-by-step guide with pictures:  
-https://circuitjournal.com/arduino-ov7670-10fps  
-  
-Tutorial 1 (10fps video stream to a display):  
-https://www.youtube.com/watch?v=Dp3RMb0e1eA&index=3&list=PLVilroPGLJaesaS5mP93i0goPck2JK-O4  
-Tutorial 2 (sending image to the PC over the USB cable):  
-https://www.youtube.com/watch?v=L9DTW1ulsT0&index=5&list=PLVilroPGLJaesaS5mP93i0goPck2JK-O4  
-  
-Datasheet for OV7670:  
-https://www.voti.nl/docs/OV7670.pdf  
+
 
 -------------------------------------------------------------------------------  
   
